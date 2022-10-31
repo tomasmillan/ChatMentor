@@ -1,0 +1,2 @@
+This project is a fullstack project of a web app chat using React js with Tailwind for the Frontend and for the backend i used Node js and Express js. Also i used Socket.io for connecting the Front with the back.
+Este proyecto es fullstack hecho con React js con Tailwind para la parte del frontend, mientras que para el backend utilice Node js y Express js. Tambien utilice por primera vez Socket.io para conectar el front con el back.
